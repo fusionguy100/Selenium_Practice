@@ -67,15 +67,3 @@ The script will:
 
     The target site used for scraping is a static mock page, ideal for practice.
 
-📷 Example Output
-
-Submitting:
-Address: 123 Main St
-Price: $2,100/month
-Link: https://example.com/property/123
-...
-✔ Submission complete.
-
-📄 License
-
-MIT License. Feel free to use, modify, and share.
